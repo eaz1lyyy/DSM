@@ -1,0 +1,7 @@
+E:\Проекты VS2019\Gorelov OOP\bin\Debug\Gorelov OOP.exe.config
+E:\Проекты VS2019\Gorelov OOP\bin\Debug\Gorelov OOP.exe
+E:\Проекты VS2019\Gorelov OOP\bin\Debug\Gorelov OOP.pdb
+E:\Проекты VS2019\Gorelov OOP\obj\Debug\Gorelov OOP.csproj.AssemblyReference.cache
+E:\Проекты VS2019\Gorelov OOP\obj\Debug\Gorelov OOP.csproj.CoreCompileInputs.cache
+E:\Проекты VS2019\Gorelov OOP\obj\Debug\Gorelov OOP.exe
+E:\Проекты VS2019\Gorelov OOP\obj\Debug\Gorelov OOP.pdb
