@@ -1,0 +1,13 @@
+D:\Галинский,Шиканов,Дмитриев,208\ПР7\bin\Debug\ПР7.exe.config
+D:\Галинский,Шиканов,Дмитриев,208\ПР7\bin\Debug\ПР7.exe
+D:\Галинский,Шиканов,Дмитриев,208\ПР7\bin\Debug\ПР7.pdb
+D:\Галинский,Шиканов,Дмитриев,208\ПР7\obj\Debug\ПР7.csprojAssemblyReference.cache
+D:\Галинский,Шиканов,Дмитриев,208\ПР7\obj\Debug\ПР7.Form1.resources
+D:\Галинский,Шиканов,Дмитриев,208\ПР7\obj\Debug\ПР7.Properties.Resources.resources
+D:\Галинский,Шиканов,Дмитриев,208\ПР7\obj\Debug\ПР7.csproj.GenerateResource.cache
+D:\Галинский,Шиканов,Дмитриев,208\ПР7\obj\Debug\ПР7.csproj.CoreCompileInputs.cache
+D:\Галинский,Шиканов,Дмитриев,208\ПР7\obj\Debug\ПР7.exe
+D:\Галинский,Шиканов,Дмитриев,208\ПР7\obj\Debug\ПР7.pdb
+D:\Галинский,Шиканов,Дмитриев,208\ПР7\obj\Debug\ПР7.Form2.resources
+C:\Users\galin\Desktop\Галинский,Шиканов,Дмитриев,208\ПР7\obj\Debug\ПР7.exe
+C:\Users\galin\Desktop\Галинский,Шиканов,Дмитриев,208\ПР7\obj\Debug\ПР7.pdb
