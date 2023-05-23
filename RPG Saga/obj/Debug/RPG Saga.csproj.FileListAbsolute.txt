@@ -1,0 +1,7 @@
+D:\Галинский,Шиканов,Дмитриев,208\RPG Saga\bin\Debug\RPG Saga.exe.config
+D:\Галинский,Шиканов,Дмитриев,208\RPG Saga\bin\Debug\RPG Saga.exe
+D:\Галинский,Шиканов,Дмитриев,208\RPG Saga\bin\Debug\RPG Saga.pdb
+D:\Галинский,Шиканов,Дмитриев,208\RPG Saga\obj\Debug\RPG Saga.csprojAssemblyReference.cache
+D:\Галинский,Шиканов,Дмитриев,208\RPG Saga\obj\Debug\RPG Saga.csproj.CoreCompileInputs.cache
+D:\Галинский,Шиканов,Дмитриев,208\RPG Saga\obj\Debug\RPG Saga.exe
+D:\Галинский,Шиканов,Дмитриев,208\RPG Saga\obj\Debug\RPG Saga.pdb
