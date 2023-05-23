@@ -1,0 +1,10 @@
+D:\Галинский,Шиканов,Дмитриев,208\Match Quiz\bin\Debug\Match Quiz.exe.config
+D:\Галинский,Шиканов,Дмитриев,208\Match Quiz\bin\Debug\Match Quiz.exe
+D:\Галинский,Шиканов,Дмитриев,208\Match Quiz\bin\Debug\Match Quiz.pdb
+D:\Галинский,Шиканов,Дмитриев,208\Match Quiz\obj\Debug\Match Quiz.csprojAssemblyReference.cache
+D:\Галинский,Шиканов,Дмитриев,208\Match Quiz\obj\Debug\Match_Quiz.Form1.resources
+D:\Галинский,Шиканов,Дмитриев,208\Match Quiz\obj\Debug\Match_Quiz.Properties.Resources.resources
+D:\Галинский,Шиканов,Дмитриев,208\Match Quiz\obj\Debug\Match Quiz.csproj.GenerateResource.cache
+D:\Галинский,Шиканов,Дмитриев,208\Match Quiz\obj\Debug\Match Quiz.csproj.CoreCompileInputs.cache
+D:\Галинский,Шиканов,Дмитриев,208\Match Quiz\obj\Debug\Match Quiz.exe
+D:\Галинский,Шиканов,Дмитриев,208\Match Quiz\obj\Debug\Match Quiz.pdb
