@@ -1,0 +1,10 @@
+D:\Галинский,Шиканов,Дмитриев,208\ПР8\ПР8\bin\Release\ПР8.exe.config
+D:\Галинский,Шиканов,Дмитриев,208\ПР8\ПР8\bin\Release\ПР8.exe
+D:\Галинский,Шиканов,Дмитриев,208\ПР8\ПР8\bin\Release\ПР8.pdb
+D:\Галинский,Шиканов,Дмитриев,208\ПР8\ПР8\obj\Release\ПР8.Form1.resources
+D:\Галинский,Шиканов,Дмитриев,208\ПР8\ПР8\obj\Release\ПР8.Form2.resources
+D:\Галинский,Шиканов,Дмитриев,208\ПР8\ПР8\obj\Release\ПР8.Properties.Resources.resources
+D:\Галинский,Шиканов,Дмитриев,208\ПР8\ПР8\obj\Release\ПР8.csproj.GenerateResource.cache
+D:\Галинский,Шиканов,Дмитриев,208\ПР8\ПР8\obj\Release\ПР8.csproj.CoreCompileInputs.cache
+D:\Галинский,Шиканов,Дмитриев,208\ПР8\ПР8\obj\Release\ПР8.exe
+D:\Галинский,Шиканов,Дмитриев,208\ПР8\ПР8\obj\Release\ПР8.pdb
