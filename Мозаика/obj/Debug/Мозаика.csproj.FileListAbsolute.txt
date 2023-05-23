@@ -1,0 +1,12 @@
+D:\Галинский,Шиканов,Дмитриев,208\Мозаика\obj\Debug\Мозаика.Properties.Resources.resources
+D:\Галинский,Шиканов,Дмитриев,208\Мозаика\obj\Debug\Мозаика.csproj.GenerateResource.cache
+D:\Галинский,Шиканов,Дмитриев,208\Мозаика\obj\Debug\Мозаика.csproj.CoreCompileInputs.cache
+D:\Галинский,Шиканов,Дмитриев,208\Мозаика\bin\Debug\Мозаика.exe.config
+D:\Галинский,Шиканов,Дмитриев,208\Мозаика\bin\Debug\Мозаика.exe
+D:\Галинский,Шиканов,Дмитриев,208\Мозаика\bin\Debug\Мозаика.pdb
+D:\Галинский,Шиканов,Дмитриев,208\Мозаика\obj\Debug\Мозаика.exe
+D:\Галинский,Шиканов,Дмитриев,208\Мозаика\obj\Debug\Мозаика.pdb
+D:\Галинский,Шиканов,Дмитриев,208\Мозаика\obj\Debug\Мозаика.csprojAssemblyReference.cache
+D:\Галинский,Шиканов,Дмитриев,208\Мозаика\obj\Debug\mosaic.FormMain.resources
+D:\Галинский,Шиканов,Дмитриев,208\Мозаика\obj\Debug\Мозаика.HelpDlg.resources
+D:\Галинский,Шиканов,Дмитриев,208\Мозаика\obj\Debug\Мозаика.SetDlg.resources
