@@ -1,0 +1,11 @@
+D:\Галинский,Шиканов,Дмитриев,208\ScreenShot\bin\Debug\ScreenShot.exe.config
+D:\Галинский,Шиканов,Дмитриев,208\ScreenShot\bin\Debug\ScreenShot.exe
+D:\Галинский,Шиканов,Дмитриев,208\ScreenShot\bin\Debug\ScreenShot.pdb
+D:\Галинский,Шиканов,Дмитриев,208\ScreenShot\obj\Debug\ScreenShot.csprojAssemblyReference.cache
+D:\Галинский,Шиканов,Дмитриев,208\ScreenShot\obj\Debug\ScreenShot.Form1.resources
+D:\Галинский,Шиканов,Дмитриев,208\ScreenShot\obj\Debug\ScreenShot.Properties.Resources.resources
+D:\Галинский,Шиканов,Дмитриев,208\ScreenShot\obj\Debug\ScreenShot.csproj.GenerateResource.cache
+D:\Галинский,Шиканов,Дмитриев,208\ScreenShot\obj\Debug\ScreenShot.csproj.CoreCompileInputs.cache
+D:\Галинский,Шиканов,Дмитриев,208\ScreenShot\obj\Debug\ScreenShot.exe
+D:\Галинский,Шиканов,Дмитриев,208\ScreenShot\obj\Debug\ScreenShot.pdb
+D:\Галинский,Шиканов,Дмитриев,208\ScreenShot\obj\Debug\ScreenShot.ScreenShot.resources
