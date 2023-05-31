@@ -1,0 +1,10 @@
+E:\Проекты VS2019\Sea Battle\bin\Release\Sea Battle.exe.config
+E:\Проекты VS2019\Sea Battle\bin\Release\Sea Battle.exe
+E:\Проекты VS2019\Sea Battle\bin\Release\Sea Battle.pdb
+E:\Проекты VS2019\Sea Battle\obj\Release\Sea Battle.csproj.AssemblyReference.cache
+E:\Проекты VS2019\Sea Battle\obj\Release\Sea_Battle.Form1.resources
+E:\Проекты VS2019\Sea Battle\obj\Release\Sea_Battle.Properties.Resources.resources
+E:\Проекты VS2019\Sea Battle\obj\Release\Sea Battle.csproj.GenerateResource.cache
+E:\Проекты VS2019\Sea Battle\obj\Release\Sea Battle.csproj.CoreCompileInputs.cache
+E:\Проекты VS2019\Sea Battle\obj\Release\Sea Battle.exe
+E:\Проекты VS2019\Sea Battle\obj\Release\Sea Battle.pdb
